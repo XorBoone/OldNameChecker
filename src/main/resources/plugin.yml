@@ -1,0 +1,4 @@
+name: OldNameChecker
+main: net.xornick.onc.OldNameChecker
+version: 1.0
+author: XorNick
